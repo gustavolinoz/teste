@@ -1,0 +1,11 @@
+<html> <head> <title>
+Bem vindo ao nosso portal
+</title>
+</head>
+<body>
+<h1> <font color=blue> Bem vindo ao CloriaFlix, o seu portal de entretenimento!!! </hl>
+</font color=blue>
+<body bgcolor=white>
+<p> <hr> <p> clique na opção desejada: <p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dlz_XHeUUis?si=g2jzpuXyc44CE-SY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zTCgwxLOt0U?si=ukvD05JH2spiiQtK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
